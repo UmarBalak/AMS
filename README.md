@@ -4,8 +4,8 @@
 The Job Application Management System (JAMS) API is a FastAPI-based backend service designed to manage job postings, candidate applications, and the application process. It offers CRUD operations for managing jobs, candidates, and applications while using SQLAlchemy ORM to interact with a SQL database (PostgreSQL).
 
 🚀 **Deployment**  
-- **Hosted API**: [https://jamsapi.onrender.com](https://jamsapi.onrender.com)  
-- **Live API Docs**: [https://jamsapi.onrender.com/docs](https://jamsapi.onrender.com/docs)
+- **Hosted API**: [https://amsapi.onrender.com](https://amsapi.onrender.com)  
+- **Live API Docs**: [https://amsapi.onrender.com/docs](https://amsapi.onrender.com/docs)
 
 🚀 **Features**
 - **Job Management**: Add, update, retrieve, and delete job postings.
